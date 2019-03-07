@@ -3,6 +3,14 @@ The formula used to calculate the experience for each level in the MMORPG Runesc
 
 The following is the output of the code:
 
+# Level: 1
+
+XP Needed for this Level at 10%: 0xp.
+
+Actual XP Needed for this Level in-game: 0xp.
+
+That is a difference of: **0xp.**
+
 # Level: 2
 
 XP Needed for this Level at 10%: 83xp.
